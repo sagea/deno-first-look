@@ -4,7 +4,11 @@
     "setup": {
       "cmd": "deno cache --lock-write app.ts",
       "desc": "Initial project setup",
-      "reload": true,
+      "watch": false
+    },
+    "fresh": {
+      "cmd": "deno cache --reload --lock-write app.ts",
+      "desc": "Initial project setup",
       "watch": false
     },
     "start": {

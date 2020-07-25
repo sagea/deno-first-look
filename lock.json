@@ -1,4 +1,12 @@
 {
+  "https://cdn.pika.dev/-/csstype@v2.6.11-nqVUcvK9prWPhRm0e0LY/dist=es2019,mode=types/index.d.ts": "522796fdcf08b59500619868b1dfc18b2c193393a866ccb4c07dc07d031ed2b1",
+  "https://cdn.pika.dev/-/prop-types@v15.7.2-zP4vfWJ00Q8BlfFeEia7/dist=es2019,mode=types/index.d.ts": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+  "https://cdn.pika.dev/-/react@v16.13.1-ByypZEPVPs6cpkpGdpQK/dist=es2019,mode=types/global.d.ts": "b4cd656db9b65fff477f65dbda00a5de4e2e765375316abd0c3ffd1282664ccc",
+  "https://cdn.pika.dev/-/react@v16.13.1-ByypZEPVPs6cpkpGdpQK/dist=es2019,mode=types/index.d.ts": "5cc9164f3c8facab664434a69b76c459dd8fc8b9bd2385d24338a4f5f92377ab",
+  "https://cdn.pika.dev/-/react@v16.13.1-ByypZEPVPs6cpkpGdpQK/dist=es2019/react.js": "8423f83d49261809a3cb6086b6aaf36d46aa84d3b576877eba2fe374863c9613",
+  "https://cdn.pika.dev/csstype/dist=es2019,mode=types/index.d.ts": "67802b662c44b28803f7a4ec7fa6b055a83e1bbc79e3c594559178ed56347cb5",
+  "https://cdn.pika.dev/prop-types/dist=es2019,mode=types/index.d.ts": "81158fdf2c1bdbee59523c2075f81e81da3c9b4a86e3f2b370432e275ac00acf",
+  "https://cdn.pika.dev/react@16.13.1": "4d5324ed783240329e44c43c0348606021646daea050bf4db61f5865fa52834a",
   "https://deno.land/std/_util/assert.ts": "e1f76e77c5ccb5a8e0dbbbe6cce3a56d2556c8cb5a9a8802fc9565af72462149",
   "https://deno.land/std/fs/_util.ts": "68508c05d5a02678179a02beabf2b3eac5b16c5a9cbd1c272686d8101bb2679d",
   "https://deno.land/std/fs/copy.ts": "b562e8f482cb8459bb011cbd769769bbdb4f6bc966effd277c06edbdbe41b72e",
