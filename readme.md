@@ -3,8 +3,8 @@ This is an experiment with deno
 
 ## Setup
 ### Pre-Requisite
-[deno](https://deno.land/#installation)
-[denon](https://deno.land/x/denon#install)
+- [deno](https://deno.land/#installation)
+- [denon](https://deno.land/x/denon#install)
 
 ### Install
 
@@ -20,13 +20,13 @@ deno start
 ```
 
 ### My Ramblings
-- I enjoy the import system. Specificially how it doesn't behave like node_modules
-- denon cli is definitely a must as far as I can tell
+- I enjoy the import system. Specifically how it doesn't behave like node_modules
+- Denon CLI is a must as far as I can tell
 
 
 #### Things that make me happy
 
-- deno: Top level async and await
+- deno: Top-level async and await
 - deno: Import maps
 
 
@@ -34,4 +34,4 @@ deno start
 - denon: denon.json global vs script level permissions is nice
 
 #### Things that are "🤨"
-- (src/eyebrow-raise/) Relative pathing for file system methods appear to be based on the execution path not the location of the file calling the method.
+- (src/eyebrow-raise/file-system-relative-pathing-root) Relative pathing for file system methods seem to be based on the execution path not the location of the file calling the method.
