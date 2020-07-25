@@ -1,0 +1,23 @@
+{
+  "$schema": "https://deno.land/x/denon/schema.json",
+  "scripts": {
+    "setup": {
+      "cmd": "deno cache --lock-write app.ts",
+      "desc": "Initial project setup",
+      "reload": true,
+      "watch": false
+    },
+    "start": {
+      "cmd": "deno run app.ts",
+      "desc": "run my app.ts file",
+      "allow": [
+        "read",
+        "net"
+      ]
+    }
+  },
+  "importmap": "importmap.json",
+  "unstable": true,
+  "lock": "lock.json"
+}
+
